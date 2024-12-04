@@ -14,11 +14,11 @@ body{
 h1{
     text-align: center;
     /* background: rgb(199, 221, 236); */
-    color:rgb(235, 214, 183)
+    color:rgb(189, 148, 87)
 }
 p{
     text-align: right;
-    color:rgb(189, 214, 214)
+    color:rgb(189,148, 87)
 }
 ul{
     list-style: none;
